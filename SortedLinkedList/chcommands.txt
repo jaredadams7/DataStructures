@@ -1,0 +1,25 @@
+isEmpty
+insertItem a
+printList
+insertItem r
+printList
+deleteItem t
+deleteItem a
+printList
+deleteItem r
+printList
+isEmpty
+insertItem e
+insertItem f
+insertItem y
+insertItem o
+insertItem w
+printList
+get 1
+get 3
+get 6
+printList
+insertItem j
+makeEmpty
+getLength
+Quit
