@@ -1,0 +1,26 @@
+isEmpty
+isFull
+putItem 10
+printList
+putItem 2
+printList
+deleteItem 7
+deleteItem 10
+printList
+deleteItem 2
+printList
+isEmpty
+putItem 7
+putItem 90
+putItem 5
+putItem 100
+putItem 3
+printList
+get 0
+get 3
+get 6
+putItem 20
+isFull
+makeEmpty
+printList
+Quit

@@ -1,0 +1,16 @@
+isEmpty
+isFull
+putItem 81012 Eman
+printList
+putItem 81001 John
+isEmpty
+printList
+deleteItem 810111
+isFull
+get 1
+getLength
+makeEmpty
+isEmpty
+getLength
+PutItem
+Quit
